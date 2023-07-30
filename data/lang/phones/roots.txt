@@ -1,0 +1,73 @@
+shared split sil sil_B sil_E sil_I sil_S
+shared split spn spn_B spn_E spn_I spn_S
+shared split nsn nsn_B nsn_E nsn_I nsn_S
+shared split lau lau_B lau_E lau_I lau_S
+shared split nse nse_B nse_E nse_I nse_S
+shared split _> _>_B _>_E _>_I _>_S
+shared split _< _<_B _<_E _<_I _<_S
+shared split ! !_B !_E !_I !_S
+shared split \ \_B \_E \_I \_S
+shared split | |_B |_E |_I |_S
+shared split 0 0_B 0_E 0_I 0_S
+shared split |\ |\_B |\_E |\_I |\_S
+shared split !\ !\_B !\_E !\_I !\_S
+shared split |\h |\h_B |\h_E |\h_I |\h_S
+shared split !\h !\h_B !\h_E !\h_I !\h_S
+shared split |\|\g_0 |\|\g_0_B |\|\g_0_E |\|\g_0_I |\|\g_0_S
+shared split !\g_0 !\g_0_B !\g_0_E !\g_0_I !\g_0_S
+shared split |\|\h |\|\h_B |\|\h_E |\|\h_I |\|\h_S
+shared split d_0Z d_0Z_B d_0Z_E d_0Z_I d_0Z_S
+shared split |\|\ |\|\_B |\|\_E |\|\_I |\|\_S
+shared split |\g_0 |\g_0_B |\g_0_E |\g_0_I |\g_0_S
+shared split t_> t_>_B t_>_E t_>_I t_>_S
+shared split k_h k_h_B k_h_E k_h_I k_h_S
+shared split kK_> kK_>_B kK_>_E kK_>_I kK_>_S
+shared split ah_B ah_E ah_I ah_S
+shared split ao_B ao_E ao_I ao_S
+shared split dz_B dz_E dz_I dz_S
+shared split ay_B ay_E ay_I ay_S
+shared split eh_B eh_E eh_I eh_S
+shared split ey_B ey_E ey_I ey_S
+shared split hh_B hh_E hh_I hh_S
+shared split ih_B ih_E ih_I ih_S
+shared split iy_B iy_E iy_I iy_S
+shared split k_B k_E k_I k_S
+shared split n_B n_E n_I n_S
+shared split ow_B ow_E ow_I ow_S
+shared split s_B s_E s_I s_S
+shared split t_B t_E t_I t_S
+shared split th_B th_E th_I th_S
+shared split uw_B uw_E uw_I uw_S
+shared split w_B w_E w_I w_S
+shared split v_B v_E v_I v_S
+shared split z_B z_E z_I z_S
+shared split a_B a_E a_I a_S
+shared split b_B b_E b_I b_S
+shared split c_B c_E c_I c_S
+shared split d_B d_E d_I d_S
+shared split E_B E_E E_I E_S
+shared split f_B f_E f_I f_S
+shared split g_B g_E g_I g_S
+shared split h_B h_E h_I h_S
+shared split i_B i_E i_I i_S
+shared split J_B J_E J_I J_S
+shared split j_B j_E j_I j_S
+shared split K_B K_E K_I K_S
+shared split l_B l_E l_I l_S
+shared split m_B m_E m_I m_S
+shared split N_B N_E N_I N_S
+shared split O_B O_E O_I O_S
+shared split p_B p_E p_I p_S
+shared split q_B q_E q_I q_S
+shared split r_B r_E r_I r_S
+shared split S_B S_E S_I S_S
+shared split u_B u_E u_I u_S
+shared split b_<_B b_<_E b_<_I b_<_S
+shared split p_>_B p_>_E p_>_I p_>_S
+shared split t_h_B t_h_E t_h_I t_h_S
+shared split ts_>_B ts_>_E ts_>_I ts_>_S
+shared split p_h_B p_h_E p_h_I p_h_S
+shared split K\_B K\_E K\_I K\_S
+shared split tS_>_B tS_>_E tS_>_I tS_>_S
+shared split h\_B h\_E h\_I h\_S
+shared split kK_B kK_E kK_I kK_S

@@ -1,0 +1,73 @@
+sil sil sil_B sil_E sil_I sil_S 
+spn spn spn_B spn_E spn_I spn_S 
+nsn nsn nsn_B nsn_E nsn_I nsn_S 
+lau lau lau_B lau_E lau_I lau_S 
+nse nse nse_B nse_E nse_I nse_S 
+_> _> _>_B _>_E _>_I _>_S 
+_< _< _<_B _<_E _<_I _<_S 
+! ! !_B !_E !_I !_S 
+\ \ \_B \_E \_I \_S 
+| | |_B |_E |_I |_S 
+0 0 0_B 0_E 0_I 0_S 
+|\ |\ |\_B |\_E |\_I |\_S 
+!\ !\ !\_B !\_E !\_I !\_S 
+|\h |\h |\h_B |\h_E |\h_I |\h_S 
+!\h !\h !\h_B !\h_E !\h_I !\h_S 
+|\|\g_0 |\|\g_0 |\|\g_0_B |\|\g_0_E |\|\g_0_I |\|\g_0_S 
+!\g_0 !\g_0 !\g_0_B !\g_0_E !\g_0_I !\g_0_S 
+|\|\h |\|\h |\|\h_B |\|\h_E |\|\h_I |\|\h_S 
+d_0Z d_0Z d_0Z_B d_0Z_E d_0Z_I d_0Z_S 
+|\|\ |\|\ |\|\_B |\|\_E |\|\_I |\|\_S 
+|\g_0 |\g_0 |\g_0_B |\g_0_E |\g_0_I |\g_0_S 
+t_> t_> t_>_B t_>_E t_>_I t_>_S 
+k_h k_h k_h_B k_h_E k_h_I k_h_S 
+kK_> kK_> kK_>_B kK_>_E kK_>_I kK_>_S 
+ah ah_B ah_E ah_I ah_S 
+ao ao_B ao_E ao_I ao_S 
+dz dz_B dz_E dz_I dz_S 
+ay ay_B ay_E ay_I ay_S 
+eh eh_B eh_E eh_I eh_S 
+ey ey_B ey_E ey_I ey_S 
+hh hh_B hh_E hh_I hh_S 
+ih ih_B ih_E ih_I ih_S 
+iy iy_B iy_E iy_I iy_S 
+k k_B k_E k_I k_S 
+n n_B n_E n_I n_S 
+ow ow_B ow_E ow_I ow_S 
+s s_B s_E s_I s_S 
+t t_B t_E t_I t_S 
+th th_B th_E th_I th_S 
+uw uw_B uw_E uw_I uw_S 
+w w_B w_E w_I w_S 
+v v_B v_E v_I v_S 
+z z_B z_E z_I z_S 
+a a_B a_E a_I a_S 
+b b_B b_E b_I b_S 
+c c_B c_E c_I c_S 
+d d_B d_E d_I d_S 
+E E_B E_E E_I E_S 
+f f_B f_E f_I f_S 
+g g_B g_E g_I g_S 
+h h_B h_E h_I h_S 
+i i_B i_E i_I i_S 
+J J_B J_E J_I J_S 
+j j_B j_E j_I j_S 
+K K_B K_E K_I K_S 
+l l_B l_E l_I l_S 
+m m_B m_E m_I m_S 
+N N_B N_E N_I N_S 
+O O_B O_E O_I O_S 
+p p_B p_E p_I p_S 
+q q_B q_E q_I q_S 
+r r_B r_E r_I r_S 
+S S_B S_E S_I S_S 
+u u_B u_E u_I u_S 
+b_< b_<_B b_<_E b_<_I b_<_S 
+p_> p_>_B p_>_E p_>_I p_>_S 
+t_h t_h_B t_h_E t_h_I t_h_S 
+ts_> ts_>_B ts_>_E ts_>_I ts_>_S 
+p_h p_h_B p_h_E p_h_I p_h_S 
+K\ K\_B K\_E K\_I K\_S 
+tS_> tS_>_B tS_>_E tS_>_I tS_>_S 
+h\ h\_B h\_E h\_I h\_S 
+kK kK_B kK_E kK_I kK_S 

@@ -1,0 +1,9 @@
+ah_B ao_B dz_B ay_B eh_B ey_B hh_B ih_B iy_B k_B n_B ow_B s_B t_B th_B uw_B w_B v_B z_B a_B b_B c_B d_B E_B f_B g_B h_B i_B J_B j_B K_B l_B m_B N_B O_B p_B q_B r_B S_B u_B b_<_B p_>_B t_h_B ts_>_B p_h_B K\_B tS_>_B h\_B kK_B 
+ah_E ao_E dz_E ay_E eh_E ey_E hh_E ih_E iy_E k_E n_E ow_E s_E t_E th_E uw_E w_E v_E z_E a_E b_E c_E d_E E_E f_E g_E h_E i_E J_E j_E K_E l_E m_E N_E O_E p_E q_E r_E S_E u_E b_<_E p_>_E t_h_E ts_>_E p_h_E K\_E tS_>_E h\_E kK_E 
+ah_I ao_I dz_I ay_I eh_I ey_I hh_I ih_I iy_I k_I n_I ow_I s_I t_I th_I uw_I w_I v_I z_I a_I b_I c_I d_I E_I f_I g_I h_I i_I J_I j_I K_I l_I m_I N_I O_I p_I q_I r_I S_I u_I b_<_I p_>_I t_h_I ts_>_I p_h_I K\_I tS_>_I h\_I kK_I 
+ah_S ao_S dz_S ay_S eh_S ey_S hh_S ih_S iy_S k_S n_S ow_S s_S t_S th_S uw_S w_S v_S z_S a_S b_S c_S d_S E_S f_S g_S h_S i_S J_S j_S K_S l_S m_S N_S O_S p_S q_S r_S S_S u_S b_<_S p_>_S t_h_S ts_>_S p_h_S K\_S tS_>_S h\_S kK_S 
+sil spn nsn lau nse _> _< ! \ | 0 |\ !\ |\h !\h |\|\g_0 !\g_0 |\|\h d_0Z |\|\ |\g_0 t_> k_h kK_> 
+sil_B spn_B nsn_B lau_B nse_B _>_B _<_B !_B \_B |_B 0_B |\_B !\_B |\h_B !\h_B |\|\g_0_B !\g_0_B |\|\h_B d_0Z_B |\|\_B |\g_0_B t_>_B k_h_B kK_>_B 
+sil_E spn_E nsn_E lau_E nse_E _>_E _<_E !_E \_E |_E 0_E |\_E !\_E |\h_E !\h_E |\|\g_0_E !\g_0_E |\|\h_E d_0Z_E |\|\_E |\g_0_E t_>_E k_h_E kK_>_E 
+sil_I spn_I nsn_I lau_I nse_I _>_I _<_I !_I \_I |_I 0_I |\_I !\_I |\h_I !\h_I |\|\g_0_I !\g_0_I |\|\h_I d_0Z_I |\|\_I |\g_0_I t_>_I k_h_I kK_>_I 
+sil_S spn_S nsn_S lau_S nse_S _>_S _<_S !_S \_S |_S 0_S |\_S !\_S |\h_S !\h_S |\|\g_0_S !\g_0_S |\|\h_S d_0Z_S |\|\_S |\g_0_S t_>_S k_h_S kK_>_S 
